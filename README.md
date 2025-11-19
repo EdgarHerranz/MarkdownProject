@@ -10,7 +10,7 @@ Aquesta és una breu introducció al projecte. Aquí guardarem notes i pràctiqu
 - [License](#license)
 
 ## Introduction
-Aquí va la introducció del projecte.
+Aquest projecte és part de la pràctica de Markdown i Git.
 ![Project Logo](images/logo.png)
 
 ## Features

@@ -1,0 +1,89 @@
+commit 45703afbbfeef78bb3135d2e1c1374060f6ab57a
+Author: Edgar <49898425v@iespoblenou.org>
+Date:   Wed Nov 19 09:16:41 2025 +0100
+
+    Merge add-license branch into main
+
+ LICENSE.md | 21 +++++++++++++++++++++
+ 1 file changed, 21 insertions(+)
+
+commit 2aa917b16ff3e7b3582fffd63c93a0417cd54b90
+Author: Edgar <49898425v@iespoblenou.org>
+Date:   Wed Nov 19 09:11:52 2025 +0100
+
+    Enhance README with formatting
+
+ README.md | 15 +++++++++++++++
+ 1 file changed, 15 insertions(+)
+
+commit 0cf6f4dba68072280671fb94dfdcf7f6f2e4f5f6
+Author: Edgar <49898425v@iespoblenou.org>
+Date:   Wed Nov 19 09:04:02 2025 +0100
+
+    Add feature list table to README
+
+ README.md | 6 ++++++
+ 1 file changed, 6 insertions(+)
+
+commit 138d3882525f41656e8bc46eae85b6f79f01aa5b
+Author: Edgar <49898425v@iespoblenou.org>
+Date:   Wed Nov 19 08:58:18 2025 +0100
+
+    Add project logo to README
+
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit fd90eb8c84ba75a81e0c4a290b3431b8209d300d
+Author: Edgar <49898425v@iespoblenou.org>
+Date:   Wed Nov 19 08:57:10 2025 +0100
+
+    Add project logo to README
+
+ images/logo.png | Bin 0 -> 3531 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit e6be085c4ef2be7aabc15ace14fe6cf82c891c03
+Author: Edgar <49898425v@iespoblenou.org>
+Date:   Wed Nov 19 08:49:23 2025 +0100
+
+    Add sections to README
+
+ README.md | 14 ++++++++++++++
+ 1 file changed, 14 insertions(+)
+
+commit f0497277b98009c938155db8cc2d5591e2bf3cf7
+Author: Edgar <49898425v@iespoblenou.org>
+Date:   Wed Nov 19 08:48:53 2025 +0100
+
+    Add hyperlinks to README
+
+ README.md | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+commit e8cf0b605a2e8e7c4e7fa095e2ff5c4f1edd3ef1
+Author: Edgar <49898425v@iespoblenou.org>
+Date:   Wed Nov 19 08:44:20 2025 +0100
+
+    Add Table of Contents to README
+
+ README.md | 7 +++++++
+ 1 file changed, 7 insertions(+)
+
+commit c3eb6adf279b020e6242d1b93c2b83e0bb29f8ab
+Author: Edgar <49898425v@iespoblenou.org>
+Date:   Wed Nov 19 08:37:26 2025 +0100
+
+    Add README with project introduction
+
+ README.md | 3 +++
+ 1 file changed, 3 insertions(+)
+
+commit 675e174b0c087d157aecc52a14250f841304b648
+Author: Edgar <49898425v@iespoblenou.org>
+Date:   Wed Nov 19 08:34:19 2025 +0100
+
+    Initial commit with .gitignore
+
+ .gitignore | 1 +
+ 1 file changed, 1 insertion(+)

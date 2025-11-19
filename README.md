@@ -11,6 +11,7 @@ Aquesta és una breu introducció al projecte. Aquí guardarem notes i pràctiqu
 
 ## Introduction
 Aquí va la introducció del projecte.
+![Project Logo](images/logo.png)
 
 ## Features
 Aquí descriurem les funcionalitats.

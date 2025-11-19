@@ -9,3 +9,17 @@ Aquesta és una breu introducció al projecte. Aquí guardarem notes i pràctiqu
 - [Usage](#usage)
 - [License](#license)
 
+## Introduction
+Aquí va la introducció del projecte.
+
+## Features
+Aquí descriurem les funcionalitats.
+
+## Installation
+Instruccions per instal·lar el projecte.
+
+## Usage
+Exemples d’ús del projecte.
+
+## License
+Informació sobre la llicència del projecte.

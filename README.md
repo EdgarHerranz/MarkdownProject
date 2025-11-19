@@ -16,6 +16,12 @@ Aquí va la introducció del projecte.
 ## Features
 Aquí descriurem les funcionalitats.
 
+| Feature        | Description                       | Status      |
+|----------------|-----------------------------------|-------------|
+| User Login     | Permet als usuaris iniciar sessió | Completed   |
+| Markdown Editor| Editor per escriure notes         | In Progress |
+| Git Integration| Integració amb repositoris Git    | Planned     |
+
 ## Installation
 Instruccions per instal·lar el projecte.
 
